@@ -71,6 +71,10 @@ class TamilvelMugunthan:
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
+**Frameworks & Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 **AI & Data**
 
@@ -125,6 +129,17 @@ class TamilvelMugunthan:
 
 ---
 
+
+### 💼 TATA Micro Internship — Online (Forage)
+**`ONLINE` · 2025**
+
+> ![ESG](https://img.shields.io/badge/ESG_Analysis-Sustainability-2e7d32?style=flat-square) ![GenAI](https://img.shields.io/badge/GenAI-Data_Analytics-FF6F00?style=flat-square) ![Cyber](https://img.shields.io/badge/Cybersecurity-IAM-E7352C?style=flat-square)
+
+- **TATA ESG Job Simulation:** Analyzed client sustainability needs, compared ESG solutions, and presented a fitment matrix aligned with corporate ESG goals.
+- **TATA GenAI Powered Data Analytics:** Performed exploratory data analysis, risk profiling, and applied GenAI-driven insights for data-backed business decisions.
+- **TATA Cybersecurity Analyst Simulation:** Gained hands-on exposure to Identity & Access Management (IAM) fundamentals, IAM strategy assessment, and secure platform integration.
+
+---
 ### ⚡ Industrial Training — Sunshiv Electronic Solutions, Coimbatore
 **`ONSITE` · December 2025**
 
@@ -145,6 +160,11 @@ class TamilvelMugunthan:
 | [**BoltOn.AI** – Industry 4.0 Predictive Maintenance](https://tamil2407.github.io/boltin.ai/) | `ESP32` `IoT` `Node.js` `Dashboard` | ⚡ <200ms data latency · 📉 30–35% downtime reduction · 🔄 Zero-refresh live telemetry |
 | [**Smart Waste Segregation System**](#) | `ESP8266` `IoT` `Cloud` `Python` | ✅ 90%+ segregation accuracy · ☁️ Real-time cloud monitoring · 🔔 Automated maintenance alerts |
 | [**HQ-Controlled Defence VPN Platform**](#) | `Node.js` `Express` `OpenVPN` `DigitalOcean` | 🔒 End-to-end encrypted transfer · 🖥️ Ubuntu server w/ PM2 · 🏆 1st Place at SMARTATHON 2.0 |
+| [**TECHNOXIAN 9.0 – RC Car Racing**](#) | `Hardware` `Embedded` `Fabrication` | 🤖 10-member team · 🏁 Semifinalist at World Robotics Championship, New Delhi |
+| [**LPG Gas Leakage Detector**](#) | `Arduino` `MQ-6 Sensor` `C++` | 🔴 Real-time gas monitoring · SnO₂-based sensing · Buzzer alert system |
+| [**SmartServe – AI Food Waste Reduction**](#) | `Web Dev` `AI` `Python` | 🍱 AI demand prediction · Canteen waste reduction system · Built at 36hr KIT Hackathon |
+| [**Formula 1 Web Page**](https://tamil2407.github.io/FORMULA-1/) | `HTML` `CSS` `GitHub Pages` | 🏎️ Responsive F1 info site · Hosted on GitHub Pages |
+| [**E-Yantra Robotics – IIT Bombay**](#) | `Embedded` `Sensors` `Algorithmic Control` | 🎓 Selected for eYRC 2025 · IIT Bombay national robotics competition |
 
 </div>
 
@@ -182,6 +202,25 @@ class TamilvelMugunthan:
 
 ---
 
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certificate | Issuer | Year |
+|:------------|:-------|:----:|
+| AWS Academy Graduate – Cloud Foundations | Amazon Web Services | 2026 |
+| Artificial Intelligence Primer | Infosys | 2026 |
+| Python Foundation | Infosys | 2026 |
+| Deep Learning & AI | CodeChef | 2026 |
+| Masterclass in AI & Data Science | Zayed University, UAE | 2026 |
+| Sensor Circuit Design | University of Colorado Boulder | 2025 |
+| Command Line in Linux | Coursera | 2025 |
+| Exploring C | University of Michigan | 2025 |
+
+</div>
+
 ## 📚 Currently Learning
 
 ```
@@ -195,12 +234,16 @@ class TamilvelMugunthan:
 
 ---
 
+---
+
 ## 🌱 Volunteering & Community
 
-- 📅 Organized & coordinated events at **Udhayam'25** and **Udhayam'26**
-- 🌸 Volunteered at **TANCAM Women's Hackathon 2025** — event coordination
-- 🇯🇵 Active member of the **Japanese Language & Culture Club**
-- 🔌 **IEEE Secretary** — driving technical events and student outreach at KIT
+| | Role | Details |
+|:--:|:-----|:--------|
+| 📅 | **Event Coordinator** | Organized & coordinated events at Udhayam'25 and Udhayam'26 |
+| 🌸 | **Hackathon Volunteer** | TANCAM Women's Hackathon 2025 — event coordination & support |
+| 🇯🇵 | **Japanese Club Member** | Active in cultural activities and Japanese language learning |
+| 🔌 | **IEEE Secretary** | Driving technical events and student outreach at KIT |
 
 ---
 
