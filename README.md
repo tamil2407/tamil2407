@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 ```python
-class TamilvelMugunthan:
+
     name        = "Tamilvel Mugunthan S"
     location    = "Coimbatore, Tamil Nadu, India 🇮🇳"
     degree      = "B.E – Electrical and Electronics Engineering (2024–2028)"
@@ -35,8 +35,6 @@ class TamilvelMugunthan:
 
     fun_fact    = "I flew to Dubai for an industry immersion at Odoo HQ 🛫"
 
-    def motto(self):
-        return "Build systems that sense the world and act on it."
 ```
 
 <div align="right">
