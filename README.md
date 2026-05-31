@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=TAMILVEL+MUGUNTHAN+S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded+Systems+%7C+IIoT+%7C+Industry+4.0+Builder&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=TAMILVEL+MUGUNTHAN+S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded+Systems+%7C+IIoT+%7C+Industry+4.0+Builder&descAlignY=62&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=EEE+Undergrad+%40+KIT+Coimbatore;IIoT+%2B+Embedded+Systems+Builder;ESP32+%7C+PCB+%7C+Predictive+Maintenance;LeetCode+Top+13%25+%7C+200%2B+Problems+Solved)](https://git.io/typing-svg)
 
@@ -92,8 +92,8 @@ class TamilvelMugunthan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tamil2407&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamil2407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tamil2407&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdae&icon_color=00c896&text_color=c9d1d9&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamil2407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&text_color=c9d1d9&langs_count=8&border_radius=10" />
 </div>
 
 ---
@@ -117,8 +117,12 @@ class TamilvelMugunthan:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamil2407&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <a href="https://github.com/tamil2407">
+    <img src="https://github-profile-trophy.vercel.app/?username=tamil2407&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  </a>
 </div>
+
+> ℹ️ Trophies appear once your GitHub account has public repositories, commits, stars, and followers.
 
 ---
 
@@ -229,21 +233,6 @@ class TamilvelMugunthan:
 
 *"Build systems that sense the world and act on it."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer)
 
-
-
-<!--
-**tamil2407/tamil2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
