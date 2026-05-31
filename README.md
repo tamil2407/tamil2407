@@ -4,9 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=EEE+Undergrad+%40+KIT+Coimbatore;IIoT+%2B+Embedded+Systems+Builder;ESP32+%7C+PCB+%7C+Predictive+Maintenance;LeetCode+Top+13%25+%7C+200%2B+Problems+Solved)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tamil2407&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/tamil2407)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tamilvel_mugunthan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilvel-mugunthan)
-[![GitHub](https://img.shields.io/badge/GitHub-tamil2407-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tamil2407)
 [![Email](https://img.shields.io/badge/Email-tamilvelmuguntha24@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tamilvelmuguntha24@gmail.com)
 
 </div>
@@ -20,7 +19,6 @@
 </div>
 
 ```python
-class TamilvelMugunthan:
     name        = "Tamilvel Mugunthan S"
     location    = "Coimbatore, Tamil Nadu, India 🇮🇳"
     degree      = "B.E – Electrical and Electronics Engineering (2024–2028)"
@@ -41,14 +39,12 @@ class TamilvelMugunthan:
 
     fun_fact    = "I flew to Dubai for an industry immersion at Odoo HQ 🛫"
 
-    def motto(self):
-        return "Build systems that sense the world and act on it."
+   
 ```
 
-<div align="right">
+<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />
-  <br>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260" alt="github terminal gif" />
+
 </div>
 
 ---
@@ -77,10 +73,6 @@ class TamilvelMugunthan:
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
-**Frameworks & Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 **AI & Data**
 
@@ -234,7 +226,7 @@ class TamilvelMugunthan:
 🏭 Industry 4.0 Systems         →  Predictive Maintenance, Digital Twins, Edge AI
 ⚡ Real-Time Embedded           →  FreeRTOS, Bare-Metal C, Interrupt-Driven Design
 🌐 IoT & IIoT Protocols         →  MQTT, Modbus, OPC-UA, ThingSpeak, Blynk
-🔬 Signal Processing             →  ADC, RMS, EMI Filtering, Hall-Effect Sensing
+🔬 Signal Processing            →  ADC, RMS, EMI Filtering, Hall-Effect Sensing
 ☁️ Cloud & DevOps               →  AWS IoT Core, CI/CD, DigitalOcean, PM2
 ```
 
@@ -249,7 +241,7 @@ class TamilvelMugunthan:
 | 📅 | **Event Coordinator** | Organized & coordinated events at Udhayam'25 and Udhayam'26 |
 | 🌸 | **Hackathon Volunteer** | TANCAM Women's Hackathon 2025 — event coordination & support |
 | 🇯🇵 | **Japanese Club Member** | Active in cultural activities and Japanese language learning |
-| 🔌 | **IEEE Secretary** | Driving technical events and student outreach at KIT |
+
 
 ---
 
