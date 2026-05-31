@@ -222,7 +222,7 @@ class TamilvelMugunthan:
 🏭 Industry 4.0 Systems         →  Predictive Maintenance, Digital Twins, Edge AI
 ⚡ Real-Time Embedded           →  FreeRTOS, Bare-Metal C, Interrupt-Driven Design
 🌐 IoT & IIoT Protocols         →  MQTT, Modbus, OPC-UA, ThingSpeak, Blynk
-🔬 Signal Processing             →  ADC, RMS, EMI Filtering, Hall-Effect Sensing
+🔬 Signal Processing            →  ADC, RMS, EMI Filtering, Hall-Effect Sensing
 ☁️ Cloud & DevOps               →  AWS IoT Core, CI/CD, DigitalOcean, PM2
 ```
 
@@ -237,7 +237,7 @@ class TamilvelMugunthan:
 | 📅 | **Event Coordinator** | Organized & coordinated events at Udhayam'25 and Udhayam'26 |
 | 🌸 | **Hackathon Volunteer** | TANCAM Women's Hackathon 2025 — event coordination & support |
 | 🇯🇵 | **Japanese Club Member** | Active in cultural activities and Japanese language learning |
-| 🔌 | **IEEE Secretary** | Driving technical events and student outreach at KIT |
+
 
 ---
 
