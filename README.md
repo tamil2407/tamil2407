@@ -4,9 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=EEE+Undergrad+%40+KIT+Coimbatore;IIoT+%2B+Embedded+Systems+Builder;ESP32+%7C+PCB+%7C+Predictive+Maintenance;LeetCode+Top+13%25+%7C+200%2B+Problems+Solved)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tamil2407&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/tamil2407)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tamilvel_mugunthan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilvel-mugunthan)
-[![GitHub](https://img.shields.io/badge/GitHub-tamil2407-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tamil2407)
 [![Email](https://img.shields.io/badge/Email-tamilvelmuguntha24@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tamilvelmuguntha24@gmail.com)
 
 </div>
@@ -71,10 +69,6 @@ class TamilvelMugunthan:
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
-**Frameworks & Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 **AI & Data**
 
