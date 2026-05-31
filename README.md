@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=EEE+Undergrad+%40+KIT+Coimbatore;IIoT+%2B+Embedded+Systems+Builder;ESP32+%7C+PCB+%7C+Predictive+Maintenance;LeetCode+Top+13%25+%7C+200%2B+Problems+Solved)](https://git.io/typing-svg)
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tamilvel_mugunthan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilvel-mugunthan)
 [![Email](https://img.shields.io/badge/Email-tamilvelmuguntha24@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tamilvelmuguntha24@gmail.com)
 
@@ -14,11 +13,8 @@
 
 ## 🧠 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pIojeM0j5SlWZ/giphy.gif" width="100%" height="4px" alt="divider" />
-</div>
-
 ```python
+
     name        = "Tamilvel Mugunthan S"
     location    = "Coimbatore, Tamil Nadu, India 🇮🇳"
     degree      = "B.E – Electrical and Electronics Engineering (2024–2028)"
@@ -39,12 +35,11 @@
 
     fun_fact    = "I flew to Dubai for an industry immersion at Odoo HQ 🛫"
 
-   
+  
 ```
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />
-
 </div>
 
 ---
@@ -73,7 +68,6 @@
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
-
 **AI & Data**
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -90,7 +84,7 @@
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tamil2407&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=tamil2407&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDAE&fire=00C896&currStreakLabel=38BDAE&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 ---
@@ -98,7 +92,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamil2407&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamil2407&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=00c896&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
@@ -121,12 +115,12 @@
 
 > ![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white) ![Business](https://img.shields.io/badge/ERP_Implementation-Lifecycle-0077B5?style=flat-square)
 
-- Explored full-suite **ERP modules** and the end-to-end ERP implementation lifecycle.
-- Analyzed real-time business decision-making frameworks used by SMEs at scale.
-- Gained exposure to international enterprise software deployment practices.
+- Studied modular ERP architecture integrating Finance, CRM, Inventory, HR, and Operations.
+- Analyzed how enterprise platforms eliminate data silos and enable real-time decision-making.
+- Understood ERP implementation lifecycle: requirement analysis, customization, deployment, and user adoption.
+- Gained exposure to digital transformation strategies for startups and SMEs.
 
 ---
-
 
 ### 💼 TATA Micro Internship — Online (Forage)
 **`ONLINE` · 2025**
@@ -138,6 +132,7 @@
 - **TATA Cybersecurity Analyst Simulation:** Gained hands-on exposure to Identity & Access Management (IAM) fundamentals, IAM strategy assessment, and secure platform integration.
 
 ---
+
 ### ⚡ Industrial Training — Sunshiv Electronic Solutions, Coimbatore
 **`ONSITE` · December 2025**
 
@@ -155,14 +150,28 @@
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**BoltOn.AI** – Industry 4.0 Predictive Maintenance](https://tamil2407.github.io/boltin.ai/) | `ESP32` `IoT` `Node.js` `Dashboard` | ⚡ <200ms data latency · 📉 30–35% downtime reduction · 🔄 Zero-refresh live telemetry |
-| [**Smart Waste Segregation System**](#) | `ESP8266` `IoT` `Cloud` `Python` | ✅ 90%+ segregation accuracy · ☁️ Real-time cloud monitoring · 🔔 Automated maintenance alerts |
-| [**HQ-Controlled Defence VPN Platform**](#) | `Node.js` `Express` `OpenVPN` `DigitalOcean` | 🔒 End-to-end encrypted transfer · 🖥️ Ubuntu server w/ PM2 · 🏆 1st Place at SMARTATHON 2.0 |
+| [**BoltOn.AI** – Industry 4.0 Predictive Maintenance](https://tamil2407.github.io/boltin.ai/) | `ESP32-S3` `TFLite` `React.js` `MQTT` | ⚡ <200ms latency · 📉 30–35% downtime reduction · 🔄 14+ machine types supported |
+| [**Smart Waste Segregation System**](#) | `ESP8266` `IoT` `Cloud` `Python` | ✅ 90%+ segregation accuracy · ☁️ Real-time cloud monitoring · 🔔 Automated alerts |
+| [**HQ-Controlled Defence VPN Platform**](#) | `Node.js` `Express` `OpenVPN` `DigitalOcean` | 🔒 End-to-end encrypted transfer · 🖥️ PM2 uptime · 🏆 1st Place SMARTATHON 2.0 |
 | [**TECHNOXIAN 9.0 – RC Car Racing**](#) | `Hardware` `Embedded` `Fabrication` | 🤖 10-member team · 🏁 Semifinalist at World Robotics Championship, New Delhi |
 | [**LPG Gas Leakage Detector**](#) | `Arduino` `MQ-6 Sensor` `C++` | 🔴 Real-time gas monitoring · SnO₂-based sensing · Buzzer alert system |
-| [**SmartServe – AI Food Waste Reduction**](#) | `Web Dev` `AI` `Python` | 🍱 AI demand prediction · Canteen waste reduction system · Built at 36hr KIT Hackathon |
+| [**SmartServe – AI Food Waste Reduction**](#) | `Web Dev` `AI` `Python` | 🍱 AI demand prediction · Canteen waste reduction · Built at 36hr KIT Hackathon |
 | [**Formula 1 Web Page**](https://tamil2407.github.io/FORMULA-1/) | `HTML` `CSS` `GitHub Pages` | 🏎️ Responsive F1 info site · Hosted on GitHub Pages |
 | [**E-Yantra Robotics – IIT Bombay**](#) | `Embedded` `Sensors` `Algorithmic Control` | 🎓 Selected for eYRC 2025 · IIT Bombay national robotics competition |
+
+</div>
+
+---
+
+
+## ⚔️ Competitive Coding
+
+<div align="center">
+
+| Platform | Rating | Problems | Rank | Badges |
+|:--------:|:------:|:--------:|:----:|:------:|
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **1734** | 180+ · Top 13% Globally | Highest: **#1069** | 4 🏅 |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1293** ⭐ 1 Star | 500+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
 
 </div>
 
@@ -174,13 +183,13 @@
 
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
-| 🥇 | **SMARTATHON 2.0 – 1st Place** | Developed a Secure Defence VPN Communication Platform |
+| 🥇 | **SMARTATHON 2.0 – 1st Place** | Blockchain & Cyber Security domain · Team Cyber Defenders |
 | 🇮🇳 | **Smart India Hackathon 2025** | Selected in Inter-College round · Problem ID: SIH25085 |
-| 🌍 | **Global Hackathon – AIESEC UAE × De Montfort University** | International multicultural team collaboration |
-| 💻 | **LeetCode – Top 13% Globally** | Rating: 1734 · 200+ problems · Highest Rank: 1069 · 4 Badges |
+| 🌍 | **Global Hackathon – AIESEC UAE × De Montfort University** | International multicultural team · real-world challenge |
+| ⏱️ | **36hr Hackathon @ KIT** | Built SmartServe webpage end-to-end |
+| 💻 | **LeetCode – Top 13% Globally** | Rating: 1734 · 180+ problems · Highest Rank: 1069 · 4 Badges |
 | ⭐ | **CodeChef – 1 Star Coder** | Rating: 1293 · 500+ problems · Rank 245 in Starters 216 (Div 4) |
 | ☁️ | **AWS Academy Graduate** | Cloud Foundations Certified |
-| 🤖 | **AI & Deep Learning** | Infosys AI Primer · CodeChef Deep Learning · Zayed University AI & Data Science Masterclass |
 
 </div>
 
@@ -194,11 +203,10 @@
 |:-------|:------------|:----:|:-----:|
 | B.E – Electrical & Electronics Engineering | KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024–2028 | CGPA: **8.00** |
 
+
 **Activities:** IEEE Secretary · iGen Ensav Club Officer
 
 </div>
-
----
 
 ---
 
@@ -219,6 +227,8 @@
 
 </div>
 
+---
+
 ## 📚 Currently Learning
 
 ```
@@ -232,9 +242,9 @@
 
 ---
 
----
-
 ## 🌱 Volunteering & Community
+
+<div align="center">
 
 | | Role | Details |
 |:--:|:-----|:--------|
@@ -242,6 +252,7 @@
 | 🌸 | **Hackathon Volunteer** | TANCAM Women's Hackathon 2025 — event coordination & support |
 | 🇯🇵 | **Japanese Club Member** | Active in cultural activities and Japanese language learning |
 
+</div>
 
 ---
 
