@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=180&section=header&text=TAMILVEL+MUGUNTHAN+S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded+Systems+%7C+IIoT+%7C+Industry+4.0+Builder&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,20&height=180&section=header&text=TAMILVEL+MUGUNTHAN+S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded+Systems+%7C+IIoT+%7C+Industry+4.0+Builder&descAlignY=62&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=EEE+Undergrad+%40+KIT+Coimbatore;IIoT+%2B+Embedded+Systems+Builder;ESP32+%7C+PCB+%7C+Predictive+Maintenance;LeetCode+Top+13%25+%7C+200%2B+Problems+Solved)](https://git.io/typing-svg)
 
@@ -33,9 +33,9 @@
     roles       = ["IEEE Secretary @ KIT",
                    "Intern @ iQuants Engineering Solutions (ECU & Embedded)"]
 
-    fun_fact    = "I flew to Dubai for an industry immersion at Odoo HQ 🛫"
 
 
+   
 ```
 
 <div align="center">
@@ -205,6 +205,7 @@
 | B.E – Electrical & Electronics Engineering | KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024–2028 | CGPA: **8.00** |
 
 
+
 **Activities:** IEEE Secretary · iGen Ensav Club Officer
 
 </div>
@@ -262,6 +263,6 @@
 
 *"Build systems that sense the world and act on it."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,20&height=120&section=footer)
 
 </div>
