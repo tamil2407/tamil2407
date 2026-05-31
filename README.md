@@ -231,7 +231,7 @@ class TamilvelMugunthan:
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
-</div>## Hi there 👋
+
 
 <!--
 **tamil2407/tamil2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
