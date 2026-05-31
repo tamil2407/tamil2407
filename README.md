@@ -89,15 +89,6 @@ class TamilvelMugunthan:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tamil2407&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdae&icon_color=00c896&text_color=c9d1d9&border_radius=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamil2407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -111,18 +102,6 @@ class TamilvelMugunthan:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamil2407&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <a href="https://github.com/tamil2407">
-    <img src="https://github-profile-trophy.vercel.app/?username=tamil2407&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-  </a>
-</div>
-
-> ℹ️ Trophies appear once your GitHub account has public repositories, commits, stars, and followers.
 
 ---
 
