@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=TAMILVEL+MUGUNTHAN+S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded+Systems+%7C+IIoT+%7C+Industry+4.0+Builder&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=180&section=header&text=TAMILVEL+MUGUNTHAN+S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded+Systems+%7C+IIoT+%7C+Industry+4.0+Builder&descAlignY=62&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=EEE+Undergrad+%40+KIT+Coimbatore;IIoT+%2B+Embedded+Systems+Builder;ESP32+%7C+PCB+%7C+Predictive+Maintenance;LeetCode+Top+13%25+%7C+200%2B+Problems+Solved)](https://git.io/typing-svg)
 
@@ -35,7 +35,7 @@
 
     fun_fact    = "I flew to Dubai for an industry immersion at Odoo HQ 🛫"
 
-  
+
 ```
 
 <div align="center">
@@ -173,6 +173,7 @@
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **1734** | 180+ · Top 13% Globally | Highest: **#1069** | 4 🏅 |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1293** ⭐ 1 Star | 500+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
 
+
 </div>
 
 ---
@@ -252,6 +253,7 @@
 | 🌸 | **Hackathon Volunteer** | TANCAM Women's Hackathon 2025 — event coordination & support |
 | 🇯🇵 | **Japanese Club Member** | Active in cultural activities and Japanese language learning |
 
+
 </div>
 
 ---
@@ -260,6 +262,6 @@
 
 *"Build systems that sense the world and act on it."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer)
 
 </div>
