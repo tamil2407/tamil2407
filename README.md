@@ -167,7 +167,7 @@
 |:--------:|:------:|:--------:|:----:|:------:|
 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 180+ · Top 13% Globally | Highest: **#1069** | 4 🏅 |
 | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star | 500+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | — | — | — |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | — | — | 3 🏅 |
 
 </div>
 
