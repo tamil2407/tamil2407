@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=EEE+Undergrad+%40+KIT+Coimbatore;IIoT+%2B+Embedded+Systems+Builder;ESP32+%7C+PCB+%7C+Predictive+Maintenance;LeetCode+Top+13%25+%7C+200%2B+Problems+Solved)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tamilvel_mugunthan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilvel-mugunthan)
-[![Email](https://img.shields.io/badge/Email-tamilvelmuguntha24@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tamilvelmuguntha24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilvel-mugunthan)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tamilvelmuguntha24@gmail.com)
 
 </div>
 
@@ -167,7 +167,7 @@
 |:--------:|:------:|:--------:|:----:|:------:|
 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 180+ · Top 13% Globally | Highest: **#1069** | 4 🏅 |
 | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star | 500+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | — | — | 3 🏅 |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | — | — | — |
 
 </div>
 
