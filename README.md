@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=EEE+Undergrad+%40+KIT+Coimbatore;IIoT+%2B+Embedded+Systems+Builder;ESP32+%7C+PCB+%7C+Predictive+Maintenance;LeetCode+Top+13%25+%7C+200%2B+Problems+Solved)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilvel-mugunthan)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tamilvelmuguntha24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/tamilvel-mugunthan)
+[![Gmail](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836)](mailto:tamilvelmuguntha24@gmail.com)
 
 </div>
 
