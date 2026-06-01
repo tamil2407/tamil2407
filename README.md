@@ -14,7 +14,6 @@
 ## 🧠 About Me
 
 ```python
-
     name        = "Tamilvel Mugunthan S"
     location    = "Coimbatore, Tamil Nadu, India 🇮🇳"
     degree      = "B.E – Electrical and Electronics Engineering (2024–2028)"
@@ -32,10 +31,6 @@
 
     roles       = ["IEEE Secretary @ KIT",
                    "Intern @ iQuants Engineering Solutions (ECU & Embedded)"]
-
-
-
-   
 ```
 
 <div align="center">
@@ -170,9 +165,9 @@
 
 | Platform | Rating | Problems | Rank | Badges |
 |:--------:|:------:|:--------:|:----:|:------:|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **1734** | 180+ · Top 13% Globally | Highest: **#1069** | 4 🏅 |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1293** ⭐ 1 Star | 500+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
-
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 180+ · Top 13% Globally | Highest: **#1069** | 4 🏅 |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star | 500+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | — | — | — |
 
 </div>
 
@@ -203,8 +198,6 @@
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
 | B.E – Electrical & Electronics Engineering | KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024–2028 | CGPA: **8.00** |
-
-
 
 **Activities:** IEEE Secretary · iGen Ensav Club Officer
 
@@ -253,7 +246,6 @@
 | 📅 | **Event Coordinator** | Organized & coordinated events at Udhayam'25 and Udhayam'26 |
 | 🌸 | **Hackathon Volunteer** | TANCAM Women's Hackathon 2025 — event coordination & support |
 | 🇯🇵 | **Japanese Club Member** | Active in cultural activities and Japanese language learning |
-
 
 </div>
 
