@@ -146,10 +146,10 @@
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
 | [**BoltOn.AI** – Industry 4.0 Predictive Maintenance](https://tamil2407.github.io/boltin.ai/) | `ESP32-S3` `TFLite` `React.js` `MQTT` | ⚡ <200ms latency · 📉 30–35% downtime reduction · 🔄 14+ machine types supported |
-| [**Smart Waste Segregation System**](#) | `ESP8266` `IoT` `Cloud` `Python` | ✅ 90%+ segregation accuracy · ☁️ Real-time cloud monitoring · 🔔 Automated alerts |
+| [**Smart Waste Segregation System**](#) | `ESP8266` `IoT` `Cloud` `C` | ✅ 90%+ segregation accuracy · ☁️ Real-time cloud monitoring · 🔔 Automated alerts |
 | [**HQ-Controlled Defence VPN Platform**](#) | `Node.js` `Express` `OpenVPN` `DigitalOcean` | 🔒 End-to-end encrypted transfer · 🖥️ PM2 uptime · 🏆 1st Place SMARTATHON 2.0 |
 | [**TECHNOXIAN 9.0 – RC Car Racing**](#) | `Hardware` `Embedded` `Fabrication` | 🤖 10-member team · 🏁 Semifinalist at World Robotics Championship, New Delhi |
-| [**LPG Gas Leakage Detector**](#) | `Arduino` `MQ-6 Sensor` `C++` | 🔴 Real-time gas monitoring · SnO₂-based sensing · Buzzer alert system |
+| [**LPG Gas Leakage Detector**](#) | `Arduino` `MQ-6 Sensor` `C` | 🔴 Real-time gas monitoring · SnO₂-based sensing · Buzzer alert system |
 | [**SmartServe – AI Food Waste Reduction**](#) | `Web Dev` `AI` `Python` | 🍱 AI demand prediction · Canteen waste reduction · Built at 36hr KIT Hackathon |
 | [**Formula 1 Web Page**](https://tamil2407.github.io/FORMULA-1/) | `HTML` `CSS` `GitHub Pages` | 🏎️ Responsive F1 info site · Hosted on GitHub Pages |
 | [**E-Yantra Robotics – IIT Bombay**](#) | `Embedded` `Sensors` `Algorithmic Control` | 🎓 Selected for eYRC 2025 · IIT Bombay national robotics competition |
