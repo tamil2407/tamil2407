@@ -164,8 +164,8 @@
 
 | Platform | Rating | Problems | Rank | Badges |
 |:--------:|:------:|:--------:|:----:|:------:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 180+ · Top 13% Globally | Highest: **#1069** | 4 🏅 |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star | 500+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 220+ · Top 13% Globally | Highest: **#1069** | 4 🏅 |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star | 600+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
 | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | — | — | 3 🏅 |
 
 </div>
@@ -182,8 +182,8 @@
 | 🇮🇳 | **Smart India Hackathon 2025** | Selected in Inter-College round · Problem ID: SIH25085 |
 | 🌍 | **Global Hackathon – AIESEC UAE × De Montfort University** | International multicultural team · real-world challenge |
 | ⏱️ | **36hr Hackathon @ KIT** | Built SmartServe webpage end-to-end |
-| 💻 | **LeetCode – Top 13% Globally** | Rating: 1734 · 180+ problems · Highest Rank: 1069 · 4 Badges |
-| ⭐ | **CodeChef – 1 Star Coder** | Rating: 1293 · 500+ problems · Rank 245 in Starters 216 (Div 4) |
+| 💻 | **LeetCode – Top 13% Globally** | Rating: 1734 · 220+ problems · Highest Rank: 1069 · 4 Badges |
+| ⭐ | **CodeChef – 1 Star Coder** | Rating: 1293 · 600+ problems · Rank 245 in Starters 216 (Div 4) |
 | ☁️ | **AWS Academy Graduate** | Cloud Foundations Certified |
 
 </div>
