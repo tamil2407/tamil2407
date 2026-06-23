@@ -28,9 +28,6 @@
                           "Real-Time Embedded Applications",
                           "Industry 4.0 Predictive Maintenance",
                           "RTOS & Bare-Metal Firmware"]
-
-    roles       = ["IEEE Secretary @ KIT",
-                   "Intern @ iQuants Engineering Solutions (ECU & Embedded)"]
 ```
 
 <div align="center">
