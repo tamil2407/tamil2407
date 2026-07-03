@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=EEE+Undergrad+%40+KIT+Coimbatore;IIoT+%2B+Embedded+Systems+Builder;ESP32+%7C+PCB+%7C+Predictive+Maintenance;LeetCode+Top+13%25+%7C+200%2B+Problems+Solved)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilvel-mugunthan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamilvelmuguntha24@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit28.24bee056@gmail.com)
 
 </div>
 
@@ -28,6 +28,9 @@
                           "Real-Time Embedded Applications",
                           "Industry 4.0 Predictive Maintenance",
                           "RTOS & Bare-Metal Firmware"]
+
+    roles       = ["IEEE Secretary @ KIT",
+                   "Intern @ iQuants Engineering Solutions (ECU & Embedded)"]
 ```
 
 <div align="center">
@@ -43,6 +46,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Embedded & Hardware**
 
@@ -68,7 +72,14 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-IoT_Cloud-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![AWS Cloud](https://img.shields.io/badge/AWS_Cloud_Foundation-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
@@ -141,11 +152,11 @@
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
+| [**HQ-Controlled Defence VPN Platform**](https://github.com/tamil2407/secure-defence-network) | `Flutter` `Firebase` `Git` `Biometric Auth` | 🔒 End-to-end encrypted transfer · 🖥️ PM2 uptime · 🏆 1st Place SMARTATHON 2.0 |
 | [**BoltOn.AI** – Industry 4.0 Predictive Maintenance](https://tamil2407.github.io/boltin.ai/) | `ESP32-S3` `TFLite` `React.js` `MQTT` | ⚡ <200ms latency · 📉 30–35% downtime reduction · 🔄 14+ machine types supported |
-| [**Smart Waste Segregation System**](#) | `ESP8266` `IoT` `Cloud` `C` | ✅ 90%+ segregation accuracy · ☁️ Real-time cloud monitoring · 🔔 Automated alerts |
-| [**HQ-Controlled Defence VPN Platform**](#) | `Node.js` `Express` `OpenVPN` `DigitalOcean` | 🔒 End-to-end encrypted transfer · 🖥️ PM2 uptime · 🏆 1st Place SMARTATHON 2.0 |
+| [**Smart Waste Segregation System**](#) | `ESP8266` `IoT` `Cloud` `Python` | ✅ 90%+ segregation accuracy · ☁️ Real-time cloud monitoring · 🔔 Automated alerts |
 | [**TECHNOXIAN 9.0 – RC Car Racing**](#) | `Hardware` `Embedded` `Fabrication` | 🤖 10-member team · 🏁 Semifinalist at World Robotics Championship, New Delhi |
-| [**LPG Gas Leakage Detector**](#) | `Arduino` `MQ-6 Sensor` `C` | 🔴 Real-time gas monitoring · SnO₂-based sensing · Buzzer alert system |
+| [**LPG Gas Leakage Detector**](#) | `Arduino` `MQ-6 Sensor` `C++` | 🔴 Real-time gas monitoring · SnO₂-based sensing · Buzzer alert system |
 | [**SmartServe – AI Food Waste Reduction**](#) | `Web Dev` `AI` `Python` | 🍱 AI demand prediction · Canteen waste reduction · Built at 36hr KIT Hackathon |
 | [**Formula 1 Web Page**](https://tamil2407.github.io/FORMULA-1/) | `HTML` `CSS` `GitHub Pages` | 🏎️ Responsive F1 info site · Hosted on GitHub Pages |
 | [**E-Yantra Robotics – IIT Bombay**](#) | `Embedded` `Sensors` `Algorithmic Control` | 🎓 Selected for eYRC 2025 · IIT Bombay national robotics competition |
@@ -161,9 +172,10 @@
 
 | Platform | Rating | Problems | Rank | Badges |
 |:--------:|:------:|:--------:|:----:|:------:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 220+ · Top 13% Globally | Highest: **#1069** | 4 🏅 |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star | 600+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | — | — | 3 🏅 |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 200+ · Top 12% Globally | Highest: **#1069** | 4 🏅 |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star | 650+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **361** | 1 problem | Highest Rank **2872** in Round 1107 Div 3 | — |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | — | — | — |
 
 </div>
 
@@ -179,8 +191,8 @@
 | 🇮🇳 | **Smart India Hackathon 2025** | Selected in Inter-College round · Problem ID: SIH25085 |
 | 🌍 | **Global Hackathon – AIESEC UAE × De Montfort University** | International multicultural team · real-world challenge |
 | ⏱️ | **36hr Hackathon @ KIT** | Built SmartServe webpage end-to-end |
-| 💻 | **LeetCode – Top 13% Globally** | Rating: 1734 · 220+ problems · Highest Rank: 1069 · 4 Badges |
-| ⭐ | **CodeChef – 1 Star Coder** | Rating: 1293 · 600+ problems · Rank 245 in Starters 216 (Div 4) |
+| 💻 | **LeetCode – Top 13% Globally** | Rating: 1734 · 180+ problems · Highest Rank: 1069 · 4 Badges |
+| ⭐ | **CodeChef – 1 Star Coder** | Rating: 1293 · 500+ problems · Rank 245 in Starters 216 (Div 4) |
 | ☁️ | **AWS Academy Graduate** | Cloud Foundations Certified |
 
 </div>
@@ -215,6 +227,7 @@
 | Sensor Circuit Design | University of Colorado Boulder | 2025 |
 | Command Line in Linux | Coursera | 2025 |
 | Exploring C | University of Michigan | 2025 |
+| Learn Spring Boot for Back-end Development | CodeChef | 2026 |
 
 </div>
 
