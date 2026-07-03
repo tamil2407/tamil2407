@@ -173,9 +173,9 @@
 | Platform | Rating | Problems | Rank | Badges |
 |:--------:|:------:|:--------:|:----:|:------:|
 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 200+ · Top 12% Globally | Highest: **#1069** | 4 🏅 |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star | 650+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star | 680+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
 | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **361** | 1 problem | Highest Rank **2872** in Round 1107 Div 3 | — |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | — | — | — |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | 60+ problems | — | 2 🏅 |
 
 </div>
 
@@ -191,8 +191,6 @@
 | 🇮🇳 | **Smart India Hackathon 2025** | Selected in Inter-College round · Problem ID: SIH25085 |
 | 🌍 | **Global Hackathon – AIESEC UAE × De Montfort University** | International multicultural team · real-world challenge |
 | ⏱️ | **36hr Hackathon @ KIT** | Built SmartServe webpage end-to-end |
-| 💻 | **LeetCode – Top 13% Globally** | Rating: 1734 · 180+ problems · Highest Rank: 1069 · 4 Badges |
-| ⭐ | **CodeChef – 1 Star Coder** | Rating: 1293 · 500+ problems · Rank 245 in Starters 216 (Div 4) |
 | ☁️ | **AWS Academy Graduate** | Cloud Foundations Certified |
 
 </div>
@@ -219,6 +217,7 @@
 
 | Certificate | Issuer | Year |
 |:------------|:-------|:----:|
+| Learn Spring Boot for Back-end Development | CodeChef | 2026 |
 | AWS Academy Graduate – Cloud Foundations | Amazon Web Services | 2026 |
 | Artificial Intelligence Primer | Infosys | 2026 |
 | Python Foundation | Infosys | 2026 |
@@ -227,7 +226,6 @@
 | Sensor Circuit Design | University of Colorado Boulder | 2025 |
 | Command Line in Linux | Coursera | 2025 |
 | Exploring C | University of Michigan | 2025 |
-| Learn Spring Boot for Back-end Development | CodeChef | 2026 |
 
 </div>
 
