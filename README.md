@@ -83,14 +83,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tamil2407&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDAE&fire=00C896&currStreakLabel=38BDAE&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
