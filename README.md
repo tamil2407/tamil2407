@@ -76,10 +76,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-IoT_Cloud-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![AWS Cloud](https://img.shields.io/badge/AWS_Cloud_Foundation-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
@@ -157,7 +153,6 @@
 
 ---
 
-
 ## ⚔️ Competitive Coding
 
 <div align="center">
@@ -166,7 +161,7 @@
 |:--------:|:------:|:--------:|:----:|:------:|
 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 250+ · Top 12% Globally | Highest: **#1069** | 4 🏅 |
 | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1434** ⭐ 1 Star | 680+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
-| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **775** | 3 problem | Highest Rank **2872** in Round 1107 Div 3 | — |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **775** | 3 problems | Highest Rank **2872** in Round 1107 Div 3 | — |
 | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | 60+ problems | — | 2 🏅 |
 
 </div>
@@ -210,6 +205,8 @@
 | Certificate | Issuer | Year |
 |:------------|:-------|:----:|
 | AWS Academy Graduate – Cloud Foundations | Amazon Web Services | 2026 |
+| C Essentials 1 | Cisco Networking Academy × OpenEDG C++ Institute | 2026 |
+| Industrial IoT and Control Systems in Energy | Cisco Networking Academy | 2026 |
 | Deep Learning & AI | CodeChef | 2026 |
 | Python Foundation | Infosys | 2026 |
 | Learn Spring Boot for Back-end Development | CodeChef | 2026 |
@@ -218,6 +215,7 @@
 | Sensor Circuit Design | University of Colorado Boulder | 2025 |
 | Command Line in Linux | Coursera | 2025 |
 | Exploring C | University of Michigan | 2025 |
+
 
 </div>
 
