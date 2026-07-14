@@ -164,9 +164,9 @@
 
 | Platform | Rating | Problems | Rank | Badges |
 |:--------:|:------:|:--------:|:----:|:------:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 200+ · Top 12% Globally | Highest: **#1069** | 4 🏅 |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star | 680+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
-| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **361** | 1 problem | Highest Rank **2872** in Round 1107 Div 3 | — |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 250+ · Top 12% Globally | Highest: **#1069** | 4 🏅 |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1434** ⭐ 1 Star | 680+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **775** | 3 problem | Highest Rank **2872** in Round 1107 Div 3 | — |
 | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | 60+ problems | — | 2 🏅 |
 
 </div>
@@ -209,11 +209,11 @@
 
 | Certificate | Issuer | Year |
 |:------------|:-------|:----:|
-| Learn Spring Boot for Back-end Development | CodeChef | 2026 |
 | AWS Academy Graduate – Cloud Foundations | Amazon Web Services | 2026 |
-| Artificial Intelligence Primer | Infosys | 2026 |
-| Python Foundation | Infosys | 2026 |
 | Deep Learning & AI | CodeChef | 2026 |
+| Python Foundation | Infosys | 2026 |
+| Learn Spring Boot for Back-end Development | CodeChef | 2026 |
+| Artificial Intelligence Primer | Infosys | 2026 |
 | Masterclass in AI & Data Science | Zayed University, UAE | 2026 |
 | Sensor Circuit Design | University of Colorado Boulder | 2025 |
 | Command Line in Linux | Coursera | 2025 |
