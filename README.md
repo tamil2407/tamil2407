@@ -207,14 +207,14 @@
 | AWS Academy Graduate – Cloud Foundations | Amazon Web Services | 2026 |
 | C Essentials 1 | Cisco Networking Academy × OpenEDG C++ Institute | 2026 |
 | Industrial IoT and Control Systems in Energy | Cisco Networking Academy | 2026 |
-| Deep Learning & AI | CodeChef | 2026 |
-| Python Foundation | Infosys | 2026 |
-| Learn Spring Boot for Back-end Development | CodeChef | 2026 |
 | Artificial Intelligence Primer | Infosys | 2026 |
+| Python Foundation | Infosys | 2026 |
+| Deep Learning & AI | CodeChef | 2026 |
+| Learn Spring Boot for Back-end Development | CodeChef | 2026 |
 | Masterclass in AI & Data Science | Zayed University, UAE | 2026 |
 | Sensor Circuit Design | University of Colorado Boulder | 2025 |
-| Command Line in Linux | Coursera | 2025 |
 | Exploring C | University of Michigan | 2025 |
+| Command Line in Linux | Coursera | 2025 |
 
 
 </div>
