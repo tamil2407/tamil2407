@@ -29,7 +29,8 @@
                           "Industry 4.0 Predictive Maintenance",
                           "RTOS & Bare-Metal Firmware"]
 
-    
+    roles       = ["IEEE Secretary @ KIT",
+                   "Intern @ iQuants Engineering Solutions (ECU & Embedded)"]
 ```
 
 <div align="center">
@@ -52,29 +53,29 @@
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Autodesk EAGLE](https://img.shields.io/badge/Autodesk_EAGLE-0696D7?style=flat-square&logo=autodesk&logoColor=white)
-![PCB](https://img.shields.io/badge/PCB_Design-brightgreen?style=flat-square&logo=circuitverse&logoColor=white)
+![PCB](https://img.shields.io/badge/PCB_Design-00897B?style=flat-square&logoColor=white)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logoColor=white)
 
 **AI & Data**
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![ThingSpeak](https://img.shields.io/badge/ThingSpeak-IoT_Cloud-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-0076A8?style=flat-square&logoColor=white)
 
 ---
 
@@ -91,7 +92,7 @@
 ### 🔧 Intern — iQuants Engineering Solutions Pvt Ltd
 **`ONSITE` · May–Jun 2026 (Present)**
 
-> ![ECU](https://img.shields.io/badge/Automotive_ECU-C%2B%2B-00599C?style=flat-square) ![Embedded](https://img.shields.io/badge/Embedded_Systems-RTOS-E7352C?style=flat-square) ![Real-Time](https://img.shields.io/badge/Real--Time_Apps-Linux-FCC624?style=flat-square&logoColor=black)
+> ![ECU](https://img.shields.io/badge/Automotive_ECU-00599C?style=flat-square&logo=c&logoColor=white) ![Embedded](https://img.shields.io/badge/Embedded_Systems-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Real-Time](https://img.shields.io/badge/Real--Time_Apps-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 - Gained practical knowledge in **automotive ECU architecture** and embedded system design.
 - Worked with real-time embedded application development pipelines.
@@ -102,7 +103,7 @@
 ### 🌐 Industry Immersion — Odoo Head Office, Dubai, UAE
 **`ONSITE` · January 2026**
 
-> ![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white) ![Business](https://img.shields.io/badge/ERP_Implementation-Lifecycle-0077B5?style=flat-square)
+> ![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white) ![Business](https://img.shields.io/badge/ERP_Implementation-0077B5?style=flat-square&logoColor=white)
 
 - Studied modular ERP architecture integrating Finance, CRM, Inventory, HR, and Operations.
 - Analyzed how enterprise platforms eliminate data silos and enable real-time decision-making.
@@ -114,7 +115,7 @@
 ### 💼 TATA Micro Internship — Online (Forage)
 **`ONLINE` · 2025**
 
-> ![ESG](https://img.shields.io/badge/ESG_Analysis-Sustainability-2e7d32?style=flat-square) ![GenAI](https://img.shields.io/badge/GenAI-Data_Analytics-FF6F00?style=flat-square) ![Cyber](https://img.shields.io/badge/Cybersecurity-IAM-E7352C?style=flat-square)
+> ![ESG](https://img.shields.io/badge/ESG_Analysis-2e7d32?style=flat-square&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI_Analytics-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Cyber](https://img.shields.io/badge/Cybersecurity_IAM-E7352C?style=flat-square&logo=shield&logoColor=white)
 
 - **TATA ESG Job Simulation:** Analyzed client sustainability needs, compared ESG solutions, and presented a fitment matrix aligned with corporate ESG goals.
 - **TATA GenAI Powered Data Analytics:** Performed exploratory data analysis, risk profiling, and applied GenAI-driven insights for data-backed business decisions.
@@ -125,7 +126,7 @@
 ### ⚡ Industrial Training — Sunshiv Electronic Solutions, Coimbatore
 **`ONSITE` · December 2025**
 
-> ![EAGLE](https://img.shields.io/badge/Autodesk_EAGLE-0696D7?style=flat-square&logo=autodesk&logoColor=white) ![PCB](https://img.shields.io/badge/PCB_Design-Assembly-brightgreen?style=flat-square)
+> ![EAGLE](https://img.shields.io/badge/Autodesk_EAGLE-0696D7?style=flat-square&logo=autodesk&logoColor=white) ![PCB](https://img.shields.io/badge/PCB_Design-00897B?style=flat-square&logoColor=white)
 
 - Gained hands-on experience in **PCB design, circuit assembly**, and schematic creation using Autodesk EAGLE.
 - Performed industrial electronics troubleshooting and component-level debugging.
@@ -207,8 +208,8 @@
 | Masterclass in AI & Data Science | Zayed University, UAE | 2026 |
 | C Essentials 1 | Cisco Networking Academy × OpenEDG C++ Institute | 2026 |
 | Industrial IoT and Control Systems in Energy | Cisco Networking Academy | 2026 |
-| Artificial Intelligence Primer | Infosys | 2026 |
 | Python Foundation | Infosys | 2026 |
+| Artificial Intelligence Primer | Infosys | 2026 |
 | Deep Learning & AI | CodeChef | 2026 |
 | Learn Spring Boot for Back-end Development | CodeChef | 2026 |
 | Sensor Circuit Design | University of Colorado Boulder | 2025 |
