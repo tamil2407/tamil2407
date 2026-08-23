@@ -148,6 +148,23 @@
 | [**SmartServe – AI Food Waste Reduction**](#) | `Web Dev` `AI` `Python` | 🍱 AI demand prediction · Canteen waste reduction · Built at 36hr KIT Hackathon |
 | [**Formula 1 Web Page**](https://tamil2407.github.io/FORMULA-1/) | `HTML` `CSS` `GitHub Pages` | 🏎️ Responsive F1 info site · Hosted on GitHub Pages |
 | [**E-Yantra Robotics – IIT Bombay**](#) | `Embedded` `Sensors` `Algorithmic Control` | 🎓 Selected for eYRC 2025 · IIT Bombay national robotics competition |
+| [**CipherZenith – Quantum-Resilient Security**](#) | `Python` `Post-Quantum Crypto` `AI` `CRYSTALS-Kyber` | 🔐 PQC + AI threat detection · 🏆 IEEE YESIST12 Grand Finale · SDG 9 |
+
+</div>
+
+---
+
+## 📄 Research Publication
+
+<div align="center">
+
+| | Details |
+|:--:|:--------|
+| 📰 | **FORGESENSE: Low-Cost Machine-Level Energy and Cooling Monitoring System for Metal Processing Industries** |
+| 🏛️ | International Conference on Circuit, Power and Computing Technologies **(ICCPCT) 2026** |
+| 🔗 | [IEEE Xplore – DOI: 10.1109/ICCPCT70290.2026.11654811](https://ieeexplore.ieee.org/document/11654811) |
+| 👥 | M P Mohandass · **S Tamilvel Mugunthan** · R Sai Thejas · V Anish |
+| 📅 | Published: **21 August 2026** |
 
 </div>
 
@@ -179,6 +196,7 @@
 | 🌍 | **Global Hackathon – AIESEC UAE × De Montfort University** | International multicultural team · real-world challenge |
 | ⏱️ | **36hr Hackathon @ KIT** | Built SmartServe webpage end-to-end |
 | ☁️ | **AWS Academy Graduate** | Cloud Foundations Certified |
+| 🌏 | **IEEE YESIST12 – Grand Finale Selected** | CipherZenith · ByteStorm Crew · Track: IEngage · SDG 9 · Role: Cryptography Engineer |
 
 </div>
 
@@ -205,17 +223,16 @@
 | Certificate | Issuer | Year |
 |:------------|:-------|:----:|
 | AWS Academy Graduate – Cloud Foundations | Amazon Web Services | 2026 |
+| Deep Learning & AI | CodeChef | 2026 |
+| Python Foundation | Infosys | 2026 |
+| Learn Spring Boot for Back-end Development | CodeChef | 2026 |
+| Artificial Intelligence Primer | Infosys | 2026 |
 | Masterclass in AI & Data Science | Zayed University, UAE | 2026 |
+| Sensor Circuit Design | University of Colorado Boulder | 2025 |
+| Command Line in Linux | Coursera | 2025 |
+| Exploring C | University of Michigan | 2025 |
 | C Essentials 1 | Cisco Networking Academy × OpenEDG C++ Institute | 2026 |
 | Industrial IoT and Control Systems in Energy | Cisco Networking Academy | 2026 |
-| Python Foundation | Infosys | 2026 |
-| Artificial Intelligence Primer | Infosys | 2026 |
-| Deep Learning & AI | CodeChef | 2026 |
-| Learn Spring Boot for Back-end Development | CodeChef | 2026 |
-| Sensor Circuit Design | University of Colorado Boulder | 2025 |
-| Exploring C | University of Michigan | 2025 |
-| Command Line in Linux | Coursera | 2025 |
-
 
 </div>
 
