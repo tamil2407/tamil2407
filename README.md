@@ -177,7 +177,7 @@
 
 | Platform | Rating | Problems | Rank | Badges |
 |:--------:|:------:|:--------:|:----:|:------:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1766** | 300+ · Top 10% Globally | Highest: **#1069** | 4 🏅 |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1766** | 300+ · Top 10% Globally | Highest: **#1106** | 4 🏅 |
 | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1434** ⭐ 1 Star | 700+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
 | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **1019** | 12 problems | Highest Rank **5700** in Round 193 Div 2 | — |
 | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | 60+ problems | — | 2 🏅 |
