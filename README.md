@@ -30,7 +30,7 @@
                           "RTOS & Bare-Metal Firmware"]
 
     roles       = ["IEEE Secretary @ KIT",
-                   "Intern @ iQuants Engineering Solutions (ECU & Embedded)"]
+                   "Intern @ TechXoetic as Software Devlopment"]
 ```
 
 <div align="center">
@@ -140,7 +140,7 @@
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**CipherZenith – Quantum-Resilient Security**](#) | `Python` `Post-Quantum Crypto` `AI` `CRYSTALS-Kyber` | 🔐 PQC + AI threat detection · 🏆 IEEE YESIST12 Grand Finale · SDG 9 |
+| [**CIPHERZENITH - PEAK SECURITY FOR A QUANTUM FUTURE**](#) | `Python` `Post-Quantum Crypto` `AI` `CRYSTALS-Kyber` | 🔐 PQC + AI threat detection · 🏆 IEEE YESIST12 Grand Finale · SDG 9 |
 | [**HQ-Controlled Defence VPN Platform**](https://github.com/tamil2407/secure-defence-network) | `Flutter` `Firebase` `Git` `Biometric Auth` | 🔒 End-to-end encrypted transfer · 🖥️ PM2 uptime · 🏆 1st Place SMARTATHON 2.0 |
 | [**BoltOn.AI** – Industry 4.0 Predictive Maintenance](https://tamil2407.github.io/boltin.ai/) | `ESP32-S3` `TFLite` `React.js` `MQTT` | ⚡ <200ms latency · 📉 30–35% downtime reduction · 🔄 14+ machine types supported |
 | [**Smart Waste Segregation System**](#) | `ESP8266` `IoT` `Cloud` `Python` | ✅ 90%+ segregation accuracy · ☁️ Real-time cloud monitoring · 🔔 Automated alerts |
