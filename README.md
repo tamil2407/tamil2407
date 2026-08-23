@@ -140,6 +140,7 @@
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
+| [**CipherZenith – Quantum-Resilient Security**](#) | `Python` `Post-Quantum Crypto` `AI` `CRYSTALS-Kyber` | 🔐 PQC + AI threat detection · 🏆 IEEE YESIST12 Grand Finale · SDG 9 |
 | [**HQ-Controlled Defence VPN Platform**](https://github.com/tamil2407/secure-defence-network) | `Flutter` `Firebase` `Git` `Biometric Auth` | 🔒 End-to-end encrypted transfer · 🖥️ PM2 uptime · 🏆 1st Place SMARTATHON 2.0 |
 | [**BoltOn.AI** – Industry 4.0 Predictive Maintenance](https://tamil2407.github.io/boltin.ai/) | `ESP32-S3` `TFLite` `React.js` `MQTT` | ⚡ <200ms latency · 📉 30–35% downtime reduction · 🔄 14+ machine types supported |
 | [**Smart Waste Segregation System**](#) | `ESP8266` `IoT` `Cloud` `Python` | ✅ 90%+ segregation accuracy · ☁️ Real-time cloud monitoring · 🔔 Automated alerts |
@@ -176,9 +177,9 @@
 
 | Platform | Rating | Problems | Rank | Badges |
 |:--------:|:------:|:--------:|:----:|:------:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1734** | 250+ · Top 12% Globally | Highest: **#1069** | 4 🏅 |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1434** ⭐ 1 Star | 680+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
-| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **775** | 3 problems | Highest Rank **2872** in Round 1107 Div 3 | — |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1766** | 300+ · Top 10% Globally | Highest: **#1069** | 4 🏅 |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1434** ⭐ 1 Star | 700+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **1019** | 12 problems | Highest Rank **5700** in Round 193 Div 2 | — |
 | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | 60+ problems | — | 2 🏅 |
 
 </div>
@@ -192,11 +193,12 @@
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
 | 🥇 | **SMARTATHON 2.0 – 1st Place** | Blockchain & Cyber Security domain · Team Cyber Defenders |
+| 🌏 | **IEEE YESIST12 – Grand Finale Selected** | CipherZenith · ByteStorm Crew · Track: IEngage · SDG 9 · Role: Cryptography Engineer |
 | 🇮🇳 | **Smart India Hackathon 2025** | Selected in Inter-College round · Problem ID: SIH25085 |
 | 🌍 | **Global Hackathon – AIESEC UAE × De Montfort University** | International multicultural team · real-world challenge |
 | ⏱️ | **36hr Hackathon @ KIT** | Built SmartServe webpage end-to-end |
 | ☁️ | **AWS Academy Graduate** | Cloud Foundations Certified |
-| 🌏 | **IEEE YESIST12 – Grand Finale Selected** | CipherZenith · ByteStorm Crew · Track: IEngage · SDG 9 · Role: Cryptography Engineer |
+
 
 </div>
 
