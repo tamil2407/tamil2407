@@ -90,7 +90,7 @@
 ## 💼 Work Experience
 
 ### 🔧 Intern — iQuants Engineering Solutions Pvt Ltd
-**`ONSITE` · May–Jun 2026 (Present)**
+**`ONSITE` · May–Jun 2026**
 
 > ![ECU](https://img.shields.io/badge/Automotive_ECU-00599C?style=flat-square&logo=c&logoColor=white) ![Embedded](https://img.shields.io/badge/Embedded_Systems-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Real-Time](https://img.shields.io/badge/Real--Time_Apps-FCC624?style=flat-square&logo=linux&logoColor=black)
 
