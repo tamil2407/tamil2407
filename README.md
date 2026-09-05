@@ -245,9 +245,9 @@
 | Python Foundation | Infosys | 2026 |
 | Deep learning & AI | Code chef | 2026 |
 | Learn Spring Boot for Back-end Development | CodeChef | 2026 |
-| Command Line in Linux | Coursera | 2025 |
 | Sensor Circuit Design | University of Colorado Boulder | 2025 |
 | Exploring C | University of Michigan | 2025 |
+| Command Line in Linux | Coursera | 2025 |
 
 </div>
 
