@@ -29,8 +29,9 @@
                           "Industry 4.0 Predictive Maintenance",
                           "RTOS & Bare-Metal Firmware"]
 
-    roles       = ["IEEE Secretary @ KIT",
-                   "Intern @ TechXoetic as Software Devlopment"]
+    roles       = ["IEEE Secretary · IEEE Ambassador @ KIT",
+                   "Software Dev Intern @ TechXoetic, Dubai (Remote)",
+                   "Published Author – IEEE Xplore (ICCPCT 2026)"]
 ```
 
 <div align="center">
@@ -47,6 +48,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Embedded & Hardware**
 
@@ -67,6 +69,7 @@
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Tools**
 
@@ -88,6 +91,16 @@
 ---
 
 ## 💼 Work Experience
+
+### 💻 Software Development Intern — TechXoetic, Dubai, UAE
+**`REMOTE` · August 2026 – Present**
+
+> ![SoftDev](https://img.shields.io/badge/Software_Development-181717?style=flat-square&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+- Contributing to software development projects by applying programming, problem-solving, and software engineering skills.
+- Building practical solutions across multiple domains in a remote international environment.
+
+---
 
 ### 🔧 Intern — iQuants Engineering Solutions Pvt Ltd
 **`ONSITE` · May–Jun 2026**
@@ -150,7 +163,6 @@
 | [**Formula 1 Web Page**](https://tamil2407.github.io/FORMULA-1/) | `HTML` `CSS` `GitHub Pages` | 🏎️ Responsive F1 info site · Hosted on GitHub Pages |
 | [**E-Yantra Robotics – IIT Bombay**](#) | `Embedded` `Sensors` `Algorithmic Control` | 🎓 Selected for eYRC 2025 · IIT Bombay national robotics competition |
 
-
 </div>
 
 ---
@@ -178,8 +190,8 @@
 | Platform | Rating | Problems | Rank | Badges |
 |:--------:|:------:|:--------:|:----:|:------:|
 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1766** | 300+ · Top 10% Globally | Highest: **#1106** | 4 🏅 |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1434** ⭐ 1 Star | 700+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
-| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **1019** | 12 problems | Highest Rank **5700** in Round 193 Div 2 | — |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star (DSA: **1485**) | 750+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **1027** | 12 problems | Highest Rank **5700** in Round 193 Div 2 | — |
 | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | 60+ problems | — | 2 🏅 |
 
 </div>
@@ -193,12 +205,12 @@
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
 | 🥇 | **SMARTATHON 2.0 – 1st Place** | Blockchain & Cyber Security domain · Team Cyber Defenders |
+| 📰 | **IEEE Xplore Publication** | Co-authored FORGESENSE · Presented at ICCPCT 2026 |
 | 🌏 | **IEEE YESIST12 – Grand Finale Selected** | CipherZenith · ByteStorm Crew · Track: IEngage · SDG 9 · Role: Cryptography Engineer |
 | 🇮🇳 | **Smart India Hackathon 2025** | Selected in Inter-College round · Problem ID: SIH25085 |
 | 🌍 | **Global Hackathon – AIESEC UAE × De Montfort University** | International multicultural team · real-world challenge |
 | ⏱️ | **36hr Hackathon @ KIT** | Built SmartServe webpage end-to-end |
 | ☁️ | **AWS Academy Graduate** | Cloud Foundations Certified |
-
 
 </div>
 
@@ -212,7 +224,7 @@
 |:-------|:------------|:----:|:-----:|
 | B.E – Electrical & Electronics Engineering | KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024–2028 | CGPA: **8.00** |
 
-**Activities:** IEEE Secretary · iGen Ensav Club Officer
+**Activities:** IEEE Secretary · IEEE Ambassador · iGen Ensav Club Office Bearer
 
 </div>
 
@@ -229,12 +241,13 @@
 | C Essentials 1 | Cisco Networking Academy × OpenEDG C++ Institute | 2026 |
 | Industrial IoT and Control Systems in Energy | Cisco Networking Academy | 2026 |
 | Artificial Intelligence Primer | Infosys | 2026 |
+| Java Programming Fundamentals | Infosys | 2026 |
 | Python Foundation | Infosys | 2026 |
+| Deep learning & AI | Code chef | 2026 |
 | Learn Spring Boot for Back-end Development | CodeChef | 2026 |
 | Command Line in Linux | Coursera | 2025 |
 | Sensor Circuit Design | University of Colorado Boulder | 2025 |
 | Exploring C | University of Michigan | 2025 |
-
 
 </div>
 
