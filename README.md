@@ -29,7 +29,7 @@
                           "Industry 4.0 Predictive Maintenance",
                           "RTOS & Bare-Metal Firmware"]
 
-    roles       = ["IEEE Secretary · IEEE Ambassador @ KIT",
+    roles       = ["IEEE Secretary · IEEE Day Ambassador @ KIT",
                    "Software Dev Intern @ TechXoetic, Dubai (Remote)",
                    "Published Author – IEEE Xplore (ICCPCT 2026)"]
 ```
@@ -93,7 +93,7 @@
 ## 💼 Work Experience
 
 ### 💻 Software Development Intern — TechXoetic, Dubai, UAE
-**`REMOTE` · August 2026 – Present**
+**`REMOTE` · July 2026 – Present**
 
 > ![SoftDev](https://img.shields.io/badge/Software_Development-181717?style=flat-square&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -189,9 +189,9 @@
 
 | Platform | Rating | Problems | Rank | Badges |
 |:--------:|:------:|:--------:|:----:|:------:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1766** | 300+ · Top 10% Globally | Highest: **#1106** | 4 🏅 |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1293** ⭐ 1 Star (DSA: **1485**) | 750+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
-| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **1027** | 12 problems | Highest Rank **5700** in Round 193 Div 2 | — |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tamilvelmugunthan24/) | **1772** | 300+ · Top 10% Globally | Highest: **#1106** | 4 🏅 |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/tamil24) | **1310** ⭐ 1 Star (DSA: **1535**) | 750+ problems | Rank **245** in Starters 216 Div 4 | 4 🏅 |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamilvelmugunthan24) | **1140** | 20+ problems | Highest Rank **1916** in Round 194 Div 2 | — |
 | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tamil24) | — | 60+ problems | — | 2 🏅 |
 
 </div>
@@ -205,12 +205,12 @@
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
 | 🥇 | **SMARTATHON 2.0 – 1st Place** | Blockchain & Cyber Security domain · Team Cyber Defenders |
-| 📰 | **IEEE Xplore Publication** | Co-authored FORGESENSE · Presented at ICCPCT 2026 |
-| 🌏 | **IEEE YESIST12 – Grand Finale Selected** | CipherZenith · ByteStorm Crew · Track: IEngage · SDG 9 · Role: Cryptography Engineer |
-| 🇮🇳 | **Smart India Hackathon 2025** | Selected in Inter-College round · Problem ID: SIH25085 |
-| 🌍 | **Global Hackathon – AIESEC UAE × De Montfort University** | International multicultural team · real-world challenge |
-| ⏱️ | **36hr Hackathon @ KIT** | Built SmartServe webpage end-to-end |
 | ☁️ | **AWS Academy Graduate** | Cloud Foundations Certified |
+| 📰 | **IEEE Xplore Publication** | Co-authored FORGESENSE · Presented at ICCPCT 2026 |
+| 🌏 | **IEEE YESIST12 2026 – Grand Finale** | CipherZenith – Peak Security for a Quantum Future · Track: IEngage · SDG 9 |
+| 🌍 | **Global Hackathon – AIESEC UAE × De Montfort University** | International multicultural team · real-world challenge |
+| 🇮🇳 | **Smart India Hackathon 2025** | Selected in Inter-College round · Problem ID: SIH25085 |
+| ⏱️ | **36hr Hackathon @ KIT** | Built SmartServe webpage end-to-end |
 
 </div>
 
@@ -224,7 +224,7 @@
 |:-------|:------------|:----:|:-----:|
 | B.E – Electrical & Electronics Engineering | KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024–2028 | CGPA: **8.00** |
 
-**Activities:** IEEE Secretary · IEEE Ambassador · iGen Ensav Club Office Bearer
+**Activities:** IEEE Secretary · IEEE Day Ambassador · IGen EnSav Club Office Bearer
 
 </div>
 
@@ -238,12 +238,12 @@
 |:------------|:-------|:----:|
 | AWS Academy Graduate – Cloud Foundations | Amazon Web Services | 2026 |
 | Masterclass in AI & Data Science | Zayed University, UAE | 2026 |
+| Java Programming Fundamentals |  Infosys | 2026 |
 | C Essentials 1 | Cisco Networking Academy × OpenEDG C++ Institute | 2026 |
 | Industrial IoT and Control Systems in Energy | Cisco Networking Academy | 2026 |
-| Artificial Intelligence Primer | Infosys | 2026 |
-| Java Programming Fundamentals | Infosys | 2026 |
 | Python Foundation | Infosys | 2026 |
-| Deep learning & AI | Code chef | 2026 |
+| Artificial Intelligence Primer | Infosys | 2026 |
+| Deep Learning & AI | CodeChef | 2026 |
 | Learn Spring Boot for Back-end Development | CodeChef | 2026 |
 | Sensor Circuit Design | University of Colorado Boulder | 2025 |
 | Exploring C | University of Michigan | 2025 |
@@ -272,7 +272,8 @@
 
 | | Role | Details |
 |:--:|:-----|:--------|
-| 📅 | **Event Coordinator** | Organized & coordinated events at Udhayam'25 and Udhayam'26 |
+| 🔌 | **IEEE Active Member** | Involved in IEEE events, IEEE Day 2026, activities, and community initiatives |
+| 📅 | **Event Coordinator** | Organized & coordinated events at Udhayam'25, Udhayam'26 |
 | 🌸 | **Hackathon Volunteer** | TANCAM Women's Hackathon 2025 — event coordination & support |
 | 🇯🇵 | **Japanese Club Member** | Active in cultural activities and Japanese language learning |
 
