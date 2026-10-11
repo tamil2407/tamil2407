@@ -82,10 +82,15 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tamil2407&bg_color=0d1117&color=38bdae&line=00c896&point=38bdae&area=true&hide_border=true&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tamil2407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=00c896&text_color=c9d1d9&border_radius=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamil2407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&text_color=c9d1d9&langs_count=8&border_radius=10" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tamil2407&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDAE&fire=00C896&currStreakLabel=38BDAE&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 ---
@@ -146,8 +151,6 @@
 - **TATA Cybersecurity Analyst Simulation:** Gained hands-on exposure to Identity & Access Management (IAM) fundamentals, IAM strategy assessment, and secure platform integration.
 
 ---
-
-
 
 ## 🚀 Featured Projects
 
@@ -214,7 +217,6 @@
 | 🇮🇳 | **Smart India Hackathon 2025** | Selected in Inter-College round · Problem ID: SIH25085 |
 | ⏱️ | **36hr Hackathon @ KIT** | Built SmartServe webpage end-to-end |
 
-
 </div>
 
 ---
@@ -264,7 +266,7 @@
 ⚡ Real-Time Embedded           →  FreeRTOS, Bare-Metal C, Interrupt-Driven Design
 🌐 IoT & IIoT Protocols         →  MQTT, Modbus, OPC-UA, ThingSpeak, Blynk
 🔬 Signal Processing            →  ADC, RMS, EMI Filtering, Hall-Effect Sensing
-☁️ Cloud & DevOps               →  AWS, IoT Core, CI/CD, DigitalOcean, PM2
+☁️ Cloud & DevOps               →  AWS IoT Core, CI/CD, DigitalOcean, PM2
 ```
 
 ---
