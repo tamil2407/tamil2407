@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,20&height=180&section=header&text=TAMILVEL+MUGUNTHAN+S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded+Systems+%7C+IIoT+%7C+Industry+4.0+Builder&descAlignY=62&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=EEE+Undergrad+%40+KIT+Coimbatore;IIoT+%2B+Embedded+Systems+Builder;ESP32+%7C+PCB+%7C+Predictive+Maintenance;LeetCode+Top+13%25+%7C+200%2B+Problems+Solved)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=EEE+Undergrad+%40+KIT+Coimbatore;IIoT+%2B+Embedded+Systems+Builder;ESP32+%7C+PCB+%7C+Predictive+Maintenance;LeetCode+Top+10%25+%7C+300%2B+Problems+Solved)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilvel-mugunthan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit28.24bee056@gmail.com)
@@ -85,7 +85,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamil2407&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=00c896&point=38bdae&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tamil2407&bg_color=0d1117&color=38bdae&line=00c896&point=38bdae&area=true&hide_border=true&theme=tokyo-night" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -125,17 +125,6 @@
 
 ---
 
-### 💼 TATA Micro Internship — Online (Forage)
-**`ONLINE` · 2025**
-
-> ![ESG](https://img.shields.io/badge/ESG_Analysis-2e7d32?style=flat-square&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI_Analytics-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Cyber](https://img.shields.io/badge/Cybersecurity_IAM-E7352C?style=flat-square&logo=shield&logoColor=white)
-
-- **TATA ESG Job Simulation:** Analyzed client sustainability needs, compared ESG solutions, and presented a fitment matrix aligned with corporate ESG goals.
-- **TATA GenAI Powered Data Analytics:** Performed exploratory data analysis, risk profiling, and applied GenAI-driven insights for data-backed business decisions.
-- **TATA Cybersecurity Analyst Simulation:** Gained hands-on exposure to Identity & Access Management (IAM) fundamentals, IAM strategy assessment, and secure platform integration.
-
----
-
 ### ⚡ Industrial Training — Sunshiv Electronic Solutions, Coimbatore
 **`ONSITE` · December 2025**
 
@@ -147,19 +136,32 @@
 
 ---
 
+### 💼 TATA Micro Internship — Online (Forage)
+**`ONLINE` · 2025**
+
+> ![ESG](https://img.shields.io/badge/ESG_Analysis-2e7d32?style=flat-square&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI_Analytics-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Cyber](https://img.shields.io/badge/Cybersecurity_IAM-E7352C?style=flat-square&logo=shield&logoColor=white)
+
+- **TATA ESG Job Simulation:** Analyzed client sustainability needs, compared ESG solutions, and presented a fitment matrix aligned with corporate ESG goals.
+- **TATA GenAI Powered Data Analytics:** Performed exploratory data analysis, risk profiling, and applied GenAI-driven insights for data-backed business decisions.
+- **TATA Cybersecurity Analyst Simulation:** Gained hands-on exposure to Identity & Access Management (IAM) fundamentals, IAM strategy assessment, and secure platform integration.
+
+---
+
+
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**CipherZenith – Peak Security for a Quantum Future**](#) | `Python` `Post-Quantum Crypto` `AI` `CRYSTALS-Kyber` | 🔐 PQC + AI threat detection · 🏆 IEEE YESIST12 Grand Finale · SDG 9 |
+| [**CipherZenith – Peak Security for a Quantum Future**](https://github.com/tamil2407/CipherZenith) | `Python` `Post-Quantum Crypto` `AI` `CRYSTALS-Kyber` | 🔐 PQC + AI threat detection · 🏆 IEEE YESIST12 Grand Finale · SDG 9 |
 | [**HQ-Controlled Defence VPN Platform**](https://github.com/tamil2407/secure-defence-network) | `Flutter` `Firebase` `Git` `Biometric Auth` | 🔒 End-to-end encrypted transfer · 🖥️ PM2 uptime · 🏆 1st Place SMARTATHON 2.0 |
 | [**BoltOn.AI** – Industry 4.0 Predictive Maintenance](https://tamil2407.github.io/boltin.ai/) | `ESP32-S3` `TFLite` `React.js` `MQTT` | ⚡ <200ms latency · 📉 30–35% downtime reduction · 🔄 14+ machine types supported |
 | [**Smart Waste Segregation System**](#) | `ESP8266` `IoT` `Cloud` `Python` | ✅ 90%+ segregation accuracy · ☁️ Real-time cloud monitoring · 🔔 Automated alerts |
 | [**TECHNOXIAN 9.0 – RC Car Racing**](#) | `Hardware` `Embedded` `Fabrication` | 🤖 10-member team · 🏁 Semifinalist at World Robotics Championship, New Delhi |
 | [**LPG Gas Leakage Detector**](#) | `Arduino` `MQ-6 Sensor` `C++` | 🔴 Real-time gas monitoring · SnO₂-based sensing · Buzzer alert system |
-| [**SmartServe – AI Food Waste Reduction**](#) | `Web Dev` `AI` `Python` | 🍱 AI demand prediction · Canteen waste reduction · Built at 36hr KIT Hackathon |
+| [**SmartServe – AI Food Waste Reduction**](https://github.com/tamil2407/mealmate-7) | `Web Dev` `AI` `Python` | 🍱 AI demand prediction · Canteen waste reduction · Built at 36hr KIT Hackathon |
 | [**Formula 1 Web Page**](https://tamil2407.github.io/FORMULA-1/) | `HTML` `CSS` `GitHub Pages` | 🏎️ Responsive F1 info site · Hosted on GitHub Pages |
 | [**E-Yantra Robotics – IIT Bombay**](#) | `Embedded` `Sensors` `Algorithmic Control` | 🎓 Selected for eYRC 2025 · IIT Bombay national robotics competition |
 
@@ -212,6 +214,7 @@
 | 🇮🇳 | **Smart India Hackathon 2025** | Selected in Inter-College round · Problem ID: SIH25085 |
 | ⏱️ | **36hr Hackathon @ KIT** | Built SmartServe webpage end-to-end |
 
+
 </div>
 
 ---
@@ -224,7 +227,7 @@
 |:-------|:------------|:----:|:-----:|
 | B.E – Electrical & Electronics Engineering | KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024–2028 | CGPA: **8.00** |
 
-**Activities:** IEEE Secretary · IEEE Day Ambassador · IGen EnSav Club Office Bearer
+**Activities:** IEEE Secretary · IEEE Day Ambassador · iGen EnSav Club Office Bearer
 
 </div>
 
@@ -238,7 +241,7 @@
 |:------------|:-------|:----:|
 | AWS Academy Graduate – Cloud Foundations | Amazon Web Services | 2026 |
 | Masterclass in AI & Data Science | Zayed University, UAE | 2026 |
-| Java Programming Fundamentals |  Infosys | 2026 |
+| Java Programming Fundamentals | Infosys | 2026 |
 | C Essentials 1 | Cisco Networking Academy × OpenEDG C++ Institute | 2026 |
 | Industrial IoT and Control Systems in Energy | Cisco Networking Academy | 2026 |
 | Python Foundation | Infosys | 2026 |
@@ -261,7 +264,7 @@
 ⚡ Real-Time Embedded           →  FreeRTOS, Bare-Metal C, Interrupt-Driven Design
 🌐 IoT & IIoT Protocols         →  MQTT, Modbus, OPC-UA, ThingSpeak, Blynk
 🔬 Signal Processing            →  ADC, RMS, EMI Filtering, Hall-Effect Sensing
-☁️ Cloud & DevOps               →  AWS IoT Core, CI/CD, DigitalOcean, PM2
+☁️ Cloud & DevOps               →  AWS, IoT Core, CI/CD, DigitalOcean, PM2
 ```
 
 ---
@@ -273,7 +276,7 @@
 | | Role | Details |
 |:--:|:-----|:--------|
 | 🔌 | **IEEE Active Member** | Involved in IEEE events, IEEE Day 2026, activities, and community initiatives |
-| 📅 | **Event Coordinator** | Organized & coordinated events at Udhayam'25, Udhayam'26 |
+| 📅 | **Event Coordinator** | Organized & coordinated events at Udhayam'25 and Udhayam'26 |
 | 🌸 | **Hackathon Volunteer** | TANCAM Women's Hackathon 2025 — event coordination & support |
 | 🇯🇵 | **Japanese Club Member** | Active in cultural activities and Japanese language learning |
 
